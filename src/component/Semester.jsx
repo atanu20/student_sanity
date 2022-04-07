@@ -172,7 +172,7 @@ const Semester = () => {
 
                   <div className="text-center">
                     <button type="submit" className="btn btn-success">
-                      Update Profile
+                      Upload Marks
                     </button>
                   </div>
                 </form>
